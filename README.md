@@ -69,5 +69,3 @@ Contributions are welcome! If you have any ideas for improving or extending this
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-You can modify this README file as needed to provide additional information about your voice assistant program. Make sure to replace `[song name]` and `[topic]` with actual examples and clarify any other usage instructions if necessary.
