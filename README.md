@@ -1,4 +1,4 @@
-# CodeClauseInternship_Voice_Assistant_using_Python
+# Voice_Assistant_using_Python
 ```markdown
 # Alexa Voice Assistant
 
